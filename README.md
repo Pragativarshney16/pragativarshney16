@@ -55,12 +55,4 @@ Smart crowd management platform designed to improve safety and coordination duri
 
 ---
 
-### Elsewhere
-
-* TryHackMe → SecureSleuth75
-* LeetCode → pragati_varshney
-* Codeforces → ZigZagCoder
-
----
-
 > Learning never really ends. That's the fun part.
