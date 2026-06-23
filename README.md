@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=0,2,12,20&text=PRAGATI%20VARSHNEY&fontSize=80&fontColor=ffffff"/>
-
-</div>
-
 # Hey, It's Pragati Varshney 👋
 
 A cybersecurity enthusiast who spends more time wondering *why* systems break than simply using them.
