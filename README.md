@@ -65,41 +65,11 @@ Most repositories here are projects, experiments, and ideas that started with cu
 
 ## Things I've Built
 
-### WebStrike
+* **WebStrike** : [Repository](YOUR_LINK)
+* **DeepShield** : [Repository](YOUR_LINK)
+* **ATT&CK Navigator** : [Repository](YOUR_LINK)
+* **TeerthFlow** : [Repository](YOUR_LINK)
 
-AI-powered phishing detection system that analyzes emails and URLs to identify malicious patterns using machine learning.
-
-**Highlights**
-Phishing Detection • URL Analysis • Feature Extraction • ML Classification
-
----
-
-### DeepShield
-
-Deepfake and synthetic media detection system focused on identifying manipulated videos and AI-generated images.
-
-**Highlights**
-Deepfake Detection • Synthetic Media Analysis • Visual Anomaly Detection
-
----
-
-### ATT&CK Navigator
-
-MITRE ATT&CK-based platform for attack simulation, detection validation, and security monitoring.
-
-**Highlights**
-ATT&CK Mapping • Attack Simulation • Detection Coverage • Security Telemetry
-
----
-
-### TeerthFlow
-
-Smart crowd management platform designed to improve safety and coordination during large-scale pilgrimages.
-
-**Highlights**
-Crowd Monitoring • Route Optimization • Risk Alerts • Management Dashboard
-
----
 
 ## Coding Profiles
 
