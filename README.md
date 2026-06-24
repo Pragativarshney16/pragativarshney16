@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:161b22&text=Pragati%20Varshney&fontColor=58a6ff&fontSize=60&animation=fadeIn"/>
-
-</div>
-
 ```bash
 $ whoami
 
