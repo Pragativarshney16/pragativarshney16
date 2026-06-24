@@ -1,20 +1,33 @@
-# Hey, It's Pragati Varshney 👋
+<div align="center">
 
-A cybersecurity enthusiast who spends more time wondering *why* systems break than simply using them.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:161b22&text=Pragati%20Varshney&fontColor=58a6ff&fontSize=60&animation=fadeIn"/>
 
-Currently exploring digital forensics, threat detection, secure system design, and the strange ways technology can be abused—and protected.
+</div>
 
-Most of my repositories are experiments, ideas, and projects built while learning. Some solve real-world problems, some answer questions I couldn't stop thinking about.
+```bash
+$ whoami
+
+Pragati Varshney
+Cybersecurity & Forensics Student
+Security Engineering Aspirant
+SIH 2025 Winner
+```
+
+Cybersecurity enthusiast interested in understanding how systems fail, how attackers think, and how defenders respond.
+
+Currently exploring digital forensics, threat detection, secure system design, cloud security, and AI-driven security solutions.
+
+Most repositories here are projects, experiments, and ideas that started with curiosity.
 
 > Curious minds find vulnerabilities. Responsible minds fix them.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Forensics;Security+Engineering;Digital+Forensics;Threat+Detection+%26+SOC+Operations;Cloud+Security;Learning+Something+New+Every+Day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%24+current_focus;Security+Engineering;Digital+Forensics;Threat+Detection+%26+SOC+Operations;Cloud+Security;AI+for+Security"/>
 </p>
 
 ---
 
-## Current Interests
+## Current Recon
 
 * Security Engineering
 * Digital Forensics
@@ -25,25 +38,34 @@ Most of my repositories are experiments, ideas, and projects built while learnin
 
 ---
 
-## Technical Skills
+## Arsenal
 
-**SOC & Blue Team Operations**
-SIEM Concepts, Alert Triage, Incident Response Lifecycle, IOC Identification, Log Monitoring
+### Programming
 
-**Networking**
-TCP/IP, DNS, HTTP/HTTPS, Packet Analysis, Network Security Fundamentals
+`Python` `Java` `C++` `JavaScript` `SQL` `Bash`
 
-**Security Tools**
-Wazuh, Splunk, Wireshark, Burp Suite, Nessus, OpenVAS, Nmap, Metasploit, Snort, Gobuster
+### Security
 
-**Operating Systems**
-Linux, Windows
+`Web Security`
+`Network Security`
+`Digital Forensics`
+`Threat Detection`
+`SOC Operations`
+`Malware Analysis`
+`Cloud Security`
 
-**Programming & Development**
-Python, Java, C++, Bash, SQL, HTML, CSS, JavaScript
+### Tools
 
-**Security Concepts**
-Phishing Detection, Malware Analysis, Vulnerability Assessment, Web Security, Threat Detection, Network Defense
+`Kali Linux`
+`Wireshark`
+`Burp Suite`
+`Nmap`
+`Metasploit`
+`Splunk`
+`Wazuh`
+`ELK`
+`Sysmon`
+`Zeek`
 
 ---
 
@@ -53,7 +75,8 @@ Phishing Detection, Malware Analysis, Vulnerability Assessment, Web Security, Th
 
 AI-powered phishing detection system that analyzes emails and URLs to identify malicious patterns using machine learning.
 
-**Highlights:** Phishing detection • URL analysis • Feature extraction • ML-based classification
+**Highlights**
+Phishing Detection • URL Analysis • Feature Extraction • ML Classification
 
 ---
 
@@ -61,7 +84,8 @@ AI-powered phishing detection system that analyzes emails and URLs to identify m
 
 Deepfake and synthetic media detection system focused on identifying manipulated videos and AI-generated images.
 
-**Highlights:** Deepfake detection • AI-generated media analysis • Visual anomaly detection
+**Highlights**
+Deepfake Detection • Synthetic Media Analysis • Visual Anomaly Detection
 
 ---
 
@@ -69,7 +93,8 @@ Deepfake and synthetic media detection system focused on identifying manipulated
 
 MITRE ATT&CK-based platform for attack simulation, detection validation, and security monitoring.
 
-**Highlights:** ATT&CK mapping • Attack simulation • Detection coverage • Security telemetry
+**Highlights**
+ATT&CK Mapping • Attack Simulation • Detection Coverage • Security Telemetry
 
 ---
 
@@ -77,7 +102,8 @@ MITRE ATT&CK-based platform for attack simulation, detection validation, and sec
 
 Smart crowd management platform designed to improve safety and coordination during large-scale pilgrimages.
 
-**Highlights:** Crowd monitoring • Route optimization • Risk alerts • Management dashboard
+**Highlights**
+Crowd Monitoring • Route Optimization • Risk Alerts • Management Dashboard
 
 ---
 
@@ -101,21 +127,42 @@ Smart crowd management platform designed to improve safety and coordination duri
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragativarshney16&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragativarshney16&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
+## Connect
+
 <p align="center">
 
-*"Learning never really ends. That's the fun part."*
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pragativarshney2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
+
+---
+
+```text
+Status: Learning
+Mode: Curious
+Last Updated: Continuously
+```
+
+> There is always another layer to investigate.
