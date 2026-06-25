@@ -83,10 +83,6 @@ Most repositories here are projects, experiments, and ideas that started with cu
 <img src="https://img.shields.io/badge/LeetCode-pragati__varshney-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/ZigZagCoder">
-<img src="https://img.shields.io/badge/Codeforces-ZigZagCoder-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
 </p>
 
 ---
