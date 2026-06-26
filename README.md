@@ -6,9 +6,6 @@ Cybersecurity & Forensics Student
 Security Engineering Aspirant
 SIH 2025 Winner
 ```
-<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/3dd59b5d-b5ee-4f6f-bf4d-1d3f6648260f" />
-
-
 Cybersecurity enthusiast interested in understanding how systems fail, how attackers think, and how defenders respond.
 
 Currently exploring digital forensics, threat detection, secure system design, cloud security, and AI-driven security solutions.
