@@ -33,28 +33,18 @@ Most repositories here are projects, experiments, and ideas that started with cu
 
 ## Arsenal
 
-## 🧠 Skills & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,linux,git,github,vscode,mysql&perline=6" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+...
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-0266C8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zeek-4B275F?style=for-the-badge"/>
-</p>
-
 
 ---
 
