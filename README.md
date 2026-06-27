@@ -34,16 +34,23 @@ Most repositories here are projects, experiments, and ideas that started with cu
 ## Arsenal
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,linux,git,github,vscode,mysql,postgres,docker,aws&perline=5" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-...
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Metasploit-1679A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0266C8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-0078D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zeek-4B275F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenVAS-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gobuster-444444?style=flat-square"/>
 </p>
 
 ---
