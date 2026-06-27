@@ -34,7 +34,7 @@ Most repositories here are projects, experiments, and ideas that started with cu
 ## Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,linux,git,github,vscode,mysql,postgres,docker,aws&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,linux,git,github,vscode,mysql,postgres,docker&perline=5" />
 </p>
 
 <p align="center">
