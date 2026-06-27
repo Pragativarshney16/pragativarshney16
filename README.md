@@ -33,32 +33,28 @@ Most repositories here are projects, experiments, and ideas that started with cu
 
 ## Arsenal
 
-### Programming
+## 🧠 Skills & Tools
 
-`Python` `Java` `C++` `JavaScript` `SQL` `Bash`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,linux,git,github,vscode,mysql&perline=6" />
+</p>
 
-### Security
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge"/>
+</p>
 
-`Web Security`
-`Network Security`
-`Digital Forensics`
-`Threat Detection`
-`SOC Operations`
-`Malware Analysis`
-`Cloud Security`
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0266C8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zeek-4B275F?style=for-the-badge"/>
+</p>
 
-### Tools
-
-`Kali Linux`
-`Wireshark`
-`Burp Suite`
-`Nmap`
-`Metasploit`
-`Splunk`
-`Wazuh`
-`ELK`
-`Sysmon`
-`Zeek`
 
 ---
 
