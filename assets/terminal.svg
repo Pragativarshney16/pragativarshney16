@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    width="1200"
+    height="620"
+    viewBox="0 0 1200 620"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Background -->
+    <rect width="1200" height="620" rx="22" fill="#0D1117"/>
+
+    <!-- Outer Border -->
+    <rect
+        x="4"
+        y="4"
+        width="1192"
+        height="612"
+        rx="20"
+        fill="none"
+        stroke="#58A6FF"
+        stroke-width="2"
+        opacity="0.45"/>
+
+    <!-- Header -->
+    <rect
+        x="0"
+        y="0"
+        width="1200"
+        height="56"
+        rx="22"
+        fill="#111827"/>
+
+    <!-- Bottom header correction -->
+    <rect
+        x="0"
+        y="36"
+        width="1200"
+        height="20"
+        fill="#111827"/>
+
+    <!-- Header Divider -->
+    <line
+        x1="0"
+        y1="56"
+        x2="1200"
+        y2="56"
+        stroke="#58A6FF"
+        opacity="0.25"/>
+
+    <!-- Window Buttons -->
+
+    <circle cx="35" cy="28" r="7" fill="#FF5F56"/>
+    <circle cx="60" cy="28" r="7" fill="#FFBD2E"/>
+    <circle cx="85" cy="28" r="7" fill="#27C93F"/>
+
+    <!-- Terminal Title -->
+
+    <text
+        x="600"
+        y="34"
+        text-anchor="middle"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="20"
+        fill="#E6EDF3">
+
+        pragati@kali: ~
+
+    </text>
+
+</svg>
