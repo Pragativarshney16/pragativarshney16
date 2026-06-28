@@ -1,155 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <svg
+    xmlns="http://www.w3.org/2000/svg"
     width="1200"
     height="620"
-    viewBox="0 0 1200 620"
-    xmlns="http://www.w3.org/2000/svg">
+    viewBox="0 0 1200 620">
 
     <!-- Background -->
-    <rect width="1200" height="620" rx="22" fill="#0D1117"/>
+    <rect width="1200" height="620" rx="20" fill="#0D1117"/>
 
-    <!-- Outer Border -->
+    <!-- Border -->
     <rect
         x="4"
         y="4"
         width="1192"
         height="612"
-        rx="20"
+        rx="18"
         fill="none"
         stroke="#58A6FF"
-        stroke-width="2"
-        opacity="0.45"/>
+        stroke-opacity="0.35"
+        stroke-width="2"/>
 
     <!-- Header -->
     <rect
-        x="0"
-        y="0"
         width="1200"
-        height="56"
-        rx="22"
+        height="58"
+        rx="20"
         fill="#111827"/>
 
-    <!-- Bottom header correction -->
     <rect
-        x="0"
-        y="36"
+        y="38"
         width="1200"
         height="20"
         fill="#111827"/>
 
-    <!-- Header Divider -->
+    <!-- Divider -->
     <line
         x1="0"
-        y1="56"
+        y1="58"
         x2="1200"
-        y2="56"
+        y2="58"
         stroke="#58A6FF"
-        opacity="0.25"/>
+        stroke-opacity="0.25"/>
 
     <!-- Window Buttons -->
 
-    <circle cx="35" cy="28" r="7" fill="#FF5F56"/>
-    <circle cx="60" cy="28" r="7" fill="#FFBD2E"/>
-    <circle cx="85" cy="28" r="7" fill="#27C93F"/>
+    <circle cx="35" cy="29" r="7" fill="#FF5F56"/>
+    <circle cx="60" cy="29" r="7" fill="#FFBD2E"/>
+    <circle cx="85" cy="29" r="7" fill="#27C93F"/>
 
-    <!-- Terminal Title -->
+    <!-- Title -->
 
     <text
         x="600"
-        y="34"
-        text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="20"
-        fill="#E6EDF3">
+        y="35"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="22"
+        text-anchor="middle">
 
         pragati@kali: ~
 
     </text>
-<!-- Terminal Prompt -->
+
+    <!-- Prompt -->
 
     <text
-    x="40"
-    y="100"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="22"
-    fill="#58A6FF">
+        x="40"
+        y="105"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="22">
 
-    ```
-    pragati@kali:~$ whoami
-    ```
+        pragati@kali:~$ whoami
 
     </text>
 
-    <!-- Output -->
+    <!-- Name -->
 
     <text
-    x="40"
-    y="155"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="24"
-    font-weight="600"
-    fill="#E6EDF3">
+        x="40"
+        y="155"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="26"
+        font-weight="bold">
 
-    ```
-    Pragati Varshney
-    ```
+        Pragati Varshney
 
     </text>
 
     <!-- Information -->
 
     <text
-    x="40"
-    y="215"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="20"
-    fill="#A5D6FF">
+        x="40"
+        y="215"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="20">
 
-    Role      :: <tspan fill="#E6EDF3">Security Engineering Aspirant</tspan>
-
-    </text>
-
-    <text
-    x="40"
-    y="255"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="20"
-    fill="#A5D6FF">
-
-    Education :: <tspan fill="#E6EDF3">B.Tech CSE (Cybersecurity & Forensics)</tspan>
+        User
 
     </text>
 
     <text
-    x="40"
-    y="295"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="20"
-    fill="#A5D6FF">
+        x="170"
+        y="215"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="20">
 
-    Status    :: <tspan fill="#3FB950">SIH 2025 Winner</tspan>
+        Pragati Varshney
+
+    </text>
+
+    <text
+        x="40"
+        y="255"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="20">
+
+        Role
+
+    </text>
+
+    <text
+        x="170"
+        y="255"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="20">
+
+        Security Engineering Aspirant
+
+    </text>
+
+    <text
+        x="40"
+        y="295"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="20">
+
+        Degree
+
+    </text>
+
+    <text
+        x="170"
+        y="295"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="20">
+
+        B.Tech CSE (Cybersecurity &amp; Forensics)
+
+    </text>
+
+    <text
+        x="40"
+        y="335"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="20">
+
+        Achievement
+
+    </text>
+
+    <text
+        x="170"
+        y="335"
+        fill="#3FB950"
+        font-family="monospace"
+        font-size="20">
+
+        SIH 2025 Winner
+
+    </text>
+
+    <text
+        x="40"
+        y="375"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="20">
+
+        Focus
+
+    </text>
+
+    <text
+        x="170"
+        y="375"
+        fill="#E6EDF3"
+        font-family="monospace"
+        font-size="20">
+
+        Cybersecurity &amp; Digital Forensics
 
     </text>
 
     <!-- Bottom Prompt -->
 
     <text
-    x="40"
-    y="360"
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="22"
-    fill="#58A6FF">
+        x="40"
+        y="450"
+        fill="#58A6FF"
+        font-family="monospace"
+        font-size="22">
 
-    pragati@kali:~$
+        pragati@kali:~$
 
     </text>
 
+    <!-- Cursor -->
+
     <rect
-    x="240"
-    y="344"
-    width="14"
-    height="24"
-    fill="#58A6FF"/>    
+        x="230"
+        y="432"
+        width="12"
+        height="24"
+        fill="#58A6FF"/>
 
 </svg>
