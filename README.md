@@ -1,23 +1,4 @@
-```bash
-$ whoami
-
-Pragati Varshney
-Cybersecurity & Forensics Student
-Security Engineering Aspirant
-SIH 2025 Winner
-```
-Cybersecurity enthusiast interested in understanding how systems fail, how attackers think, and how defenders respond.
-
-Currently exploring digital forensics, threat detection, secure system design, cloud security, and AI-driven security solutions.
-
-Most repositories here are projects, experiments, and ideas that started with curiosity.
-
-> Curious minds find vulnerabilities. Responsible minds fix them.
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%24+current_focus;Security+Engineering;Digital+Forensics;Threat+Detection+%26+SOC+Operations;Cloud+Security;AI+for+Security"/>
-</p>
-
+<p align="center"> <img src="assets/terminal.svg" width="100%"> </p>
 ---
 
 ## Current Recon
