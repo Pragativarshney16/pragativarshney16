@@ -68,88 +68,88 @@
     </text>
 <!-- Terminal Prompt -->
 
-<text
- x="40"
- y="100"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="22"
- fill="#58A6FF">
+    <text
+    x="40"
+    y="100"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="22"
+    fill="#58A6FF">
 
-```
-pragati@kali:~$ whoami
-```
+    ```
+    pragati@kali:~$ whoami
+    ```
 
-</text>
+    </text>
 
-<!-- Output -->
+    <!-- Output -->
 
-<text
- x="40"
- y="155"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="24"
- font-weight="600"
- fill="#E6EDF3">
+    <text
+    x="40"
+    y="155"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="24"
+    font-weight="600"
+    fill="#E6EDF3">
 
-```
-Pragati Varshney
-```
+    ```
+    Pragati Varshney
+    ```
 
-</text>
+    </text>
 
-<!-- Information -->
+    <!-- Information -->
 
-<text
- x="40"
- y="215"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="20"
- fill="#A5D6FF">
+    <text
+    x="40"
+    y="215"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="20"
+    fill="#A5D6FF">
 
-Role      :: <tspan fill="#E6EDF3">Security Engineering Aspirant</tspan>
+    Role      :: <tspan fill="#E6EDF3">Security Engineering Aspirant</tspan>
 
-</text>
+    </text>
 
-<text
- x="40"
- y="255"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="20"
- fill="#A5D6FF">
+    <text
+    x="40"
+    y="255"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="20"
+    fill="#A5D6FF">
 
-Education :: <tspan fill="#E6EDF3">B.Tech CSE (Cybersecurity & Forensics)</tspan>
+    Education :: <tspan fill="#E6EDF3">B.Tech CSE (Cybersecurity & Forensics)</tspan>
 
-</text>
+    </text>
 
-<text
- x="40"
- y="295"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="20"
- fill="#A5D6FF">
+    <text
+    x="40"
+    y="295"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="20"
+    fill="#A5D6FF">
 
-Status    :: <tspan fill="#3FB950">SIH 2025 Winner</tspan>
+    Status    :: <tspan fill="#3FB950">SIH 2025 Winner</tspan>
 
-</text>
+    </text>
 
-<!-- Bottom Prompt -->
+    <!-- Bottom Prompt -->
 
-<text
- x="40"
- y="360"
- font-family="JetBrains Mono, Consolas, monospace"
- font-size="22"
- fill="#58A6FF">
+    <text
+    x="40"
+    y="360"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="22"
+    fill="#58A6FF">
 
-pragati@kali:~$
+    pragati@kali:~$
 
-</text>
+    </text>
 
-<rect
- x="240"
- y="344"
- width="14"
- height="24"
- fill="#58A6FF"/>    
+    <rect
+    x="240"
+    y="344"
+    width="14"
+    height="24"
+    fill="#58A6FF"/>    
 
 </svg>
