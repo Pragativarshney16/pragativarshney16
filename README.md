@@ -46,9 +46,6 @@ Languages
 [loaded] SQL
 [loaded] Bash
 
-Operating System
-----------------
-[loaded] Linux
 
 Security Toolkit
 ----------------
@@ -59,7 +56,6 @@ Security Toolkit
 [loaded] Metasploit
 [loaded] Splunk
 [loaded] Wazuh
-[loaded] ELK Stack
 [loaded] Sysmon
 [loaded] Zeek
 [loaded] Nessus
@@ -72,7 +68,7 @@ Platforms
 [loaded] LeetCode
 [loaded] Codeforces
 
-20 modules loaded successfully.
+21 modules loaded successfully.
 
 pragati@github:~$ pv --projects
 
