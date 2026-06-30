@@ -1,26 +1,28 @@
-<div align="center">
-
-# PRAGATI VARSHNEY
-
-</div>
-
-<table>
-<tr>
-<td>
+<!-- Banner (optional) -->
 
 ```console
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●                                              pragati@github:~         │
-├──────────────────────────────────────────────────────────────────────────────┤
+● ● ●                                              pragati@github:~
+
+pragati@github:~$ pv
+
+Pragati CLI v1.0.0
+Security Engineering Interface
+
+Type "pv --help" for available commands.
 
 pragati@github:~$ pv --about
 
-Loading profile...
+Name         : Pragati Varshney
 
-▌
+Role         : Security Engineering Aspirant
 
+Degree       : B.Tech CSE
+               Cybersecurity & Forensics
+
+Achievement  : SIH 2025 Winner
+
+Philosophy   : Curious about how systems break.
+               More curious about how they're defended.
+
+pragati@github:~$ _
 ```
-
-</td>
-</tr>
-</table>
