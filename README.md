@@ -36,38 +36,34 @@ Scanning environment...
 
 Languages
 -----------
-✓ Python
-✓ Java
-✓ C++
-✓ JavaScript
-✓ SQL
-✓ Bash
-
-Operating System
-----------------
-✓ Linux
+[loaded] Python
+[loaded] Java
+[loaded] C++
+[loaded] JavaScript
+[loaded] SQL
+[loaded] Bash
 
 Security Toolkit
 ----------------
-✓ Kali Linux
-✓ Burp Suite
-✓ Wireshark
-✓ Nmap
-✓ Metasploit
-✓ Splunk
-✓ Wazuh
-✓ ELK Stack
-✓ Sysmon
-✓ Zeek
-✓ Nessus
-✓ OpenVAS
-✓ Gobuster
+[loaded] Kali Linux
+[loaded] Burp Suite
+[loaded] Wireshark
+[loaded] Nmap
+[loaded] Metasploit
+[loaded] Splunk
+[loaded] Wazuh
+[loaded] Sysmon
+[loaded] Zeek
+[loaded] Nessus
+[loaded] OpenVAS
+[loaded] Gobuster
 
 Platforms
 ---------
-✓ TryHackMe
-✓ LeetCode
-✓ Codeforces
+[loaded] TryHackMe
+[loaded] LeetCode
+[loaded] Codeforces
+[loaded] HackTheBox
 
 Status
 
