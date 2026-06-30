@@ -103,19 +103,18 @@ pragati@github:~$ pv --stats
 
 Collecting GitHub telemetry...
 
+Telemetry synchronized successfully.
+
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragativarshney16&theme=github-dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ```console
-Telemetry collection completed.
+Telemetry collection completed successfully.
 
 pragati@github:~$ logout
 
