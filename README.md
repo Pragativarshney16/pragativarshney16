@@ -8,7 +8,13 @@ pragati@github:~$ pv
 Pragati CLI v1.0.0
 Security Engineering Interface
 
-Type "pv --help" for available commands.
+Available commands:
+  --about
+  --recon
+  --arsenal
+  --projects
+  --profiles
+  --stats
 
 pragati@github:~$ pv --about
 
