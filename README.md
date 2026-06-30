@@ -106,11 +106,8 @@ Collecting GitHub telemetry...
 Telemetry synchronized successfully.
 
 ```
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF"/>
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ```console
