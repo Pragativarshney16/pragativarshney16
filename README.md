@@ -128,7 +128,9 @@ Collecting GitHub telemetry...
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ```console
