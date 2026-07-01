@@ -110,10 +110,10 @@ Found 4 repositories.
      https://github.com/pragativarshney16/DeepShield
 
 [03] ATT&CK Navigator
-     https://github.com/pragativarshney16/ATTACK-Navigator
+     https://github.com/Garimamittal12/ATT-CKNavigator
 
 [04] TeerthFlow
-     https://github.com/pragativarshney16/TeerthFlow
+     https://github.com/Garimamittal12/TeerthFlow
 
 Repository enumeration complete.
 
