@@ -4,34 +4,45 @@
 pragati@github:~$ pv
 
 Pragati CLI v1.0.0
-Security Engineering Workspace
+Copyright (c) 2025 Pragati Varshney
 
-Profile initialized successfully.
+Initializing workspace...
+Done.
 
-Available commands
+pragati@github:~$ pv --help
 
-    --about
-    --recon
-    --arsenal
-    --projects
-    --profiles
-    --stats
+Usage:
+  pv [command]
+
+Commands:
+  --about
+  --recon
+  --arsenal
+  --projects
+  --profiles
+  --stats
+  logout
 
 pragati@github:~$ pv --about
 
-Name         Pragati Varshney
-Role         Security Engineering Aspirant
-Degree       B.Tech CSE
-             Cybersecurity & Forensics
-Achievement  SIH 2025 Winner
+Name              Pragati Varshney
+Role              Security Engineering Aspirant
+Degree            B.Tech CSE
+                  Cybersecurity & Forensics
 
-Focus        Digital Forensics
-             Threat Detection
-             Cloud Security
-             Malware Analysis
+Latest Milestone  SIH 2025 Winner
 
-Philosophy   Curious about how systems break.
-             More curious about how they're defended.
+Current Focus
+                  Digital Forensics
+                  Threat Detection
+                  Cloud Security
+                  Malware Analysis
+
+Philosophy
+                  Curious about how systems break.
+                  More curious about how they're defended.
+
+Profile loaded successfully.
 
 pragati@github:~$ pv --arsenal
 
@@ -45,7 +56,6 @@ Languages
 [loaded] JavaScript
 [loaded] SQL
 [loaded] Bash
-
 
 Security Toolkit
 ----------------
@@ -68,34 +78,45 @@ Platforms
 [loaded] LeetCode
 [loaded] Codeforces
 
-21 modules loaded successfully.
+Scan complete.
+
+21 modules available.
 
 pragati@github:~$ pv --projects
 
-Searching repositories...
+Searching local repositories...
+
+Found 4 repositories.
 
 [01] WebStrike
-     Repository : https://github.com/USERNAME/WebStrike
+     Repository : https://github.com/YOUR_GITHUB_USERNAME/WebStrike
 
 [02] DeepShield
-     Repository : https://github.com/USERNAME/DeepShield
+     Repository : https://github.com/YOUR_GITHUB_USERNAME/DeepShield
 
 [03] ATT&CK Navigator
-     Repository : https://github.com/USERNAME/ATTACK-Navigator
+     Repository : https://github.com/YOUR_GITHUB_USERNAME/ATTACK-Navigator
 
 [04] TeerthFlow
-     Repository : https://github.com/USERNAME/TeerthFlow
+     Repository : https://github.com/YOUR_GITHUB_USERNAME/TeerthFlow
 
-4 repositories discovered.
+Repository enumeration complete.
 
 pragati@github:~$ pv --profiles
 
 Loading external profiles...
 
-TryHackMe  : https://tryhackme.com/p/SecureSleuth75/
-LeetCode   : https://leetcode.com/u/pragati_varshney/
-Codeforces : https://codeforces.com/profile/ZigZagCoder/
-LinkedIn   : https://www.linkedin.com/in/pragati-varshney-b4800a324/
+TryHackMe
+https://tryhackme.com/p/SecureSleuth75/
+
+LeetCode
+https://leetcode.com/u/pragati_varshney/
+
+Codeforces
+https://codeforces.com/profile/ZigZagCoder/
+
+LinkedIn
+https://www.linkedin.com/in/pragati-varshney-b4800a324/
 
 External profiles loaded successfully.
 
@@ -103,23 +124,25 @@ pragati@github:~$ pv --stats
 
 Collecting GitHub telemetry...
 
-Telemetry synchronized successfully.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragativarshney16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ```console
-Telemetry collection completed successfully.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Telemetry synchronized successfully.
 
 pragati@github:~$ logout
 
-Saving session...
-Done.
+Saving session... done.
+
+Logout successful.
 
 Connection closed.
-
 ```
