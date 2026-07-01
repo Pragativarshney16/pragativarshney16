@@ -1,29 +1,31 @@
 ```console
-● ● ●                                              pragati@github:~
+● ● ●                                              pragati@pv:~
 
-pragati@github:~$ pv
+pragati@pv:~$ pv
 
 Pragati CLI v1.0.0
-Copyright (c) 2025 Pragati Varshney
 
 Initializing workspace...
 Done.
 
-pragati@github:~$ pv --help
+Workspace ready.
+
+pragati@pv:~$ pv help
 
 Usage:
-  pv [command]
+  pv <command>
 
-Commands:
-  --about
-  --recon
-  --arsenal
-  --projects
-  --profiles
-  --stats
+Available Commands
+
+  about
+  recon
+  arsenal
+  projects
+  profiles
+  stats
   logout
 
-pragati@github:~$ pv --about
+pragati@pv:~$ pv about
 
 Name              Pragati Varshney
 Role              Security Engineering Aspirant
@@ -44,7 +46,20 @@ Philosophy
 
 Profile loaded successfully.
 
-pragati@github:~$ pv --arsenal
+pragati@pv:~$ pv recon
+
+Current Objectives
+
+  • Security Engineering
+  • Digital Forensics
+  • Threat Detection & SOC Operations
+  • Malware Analysis
+  • Cloud Security
+  • AI for Security
+
+Recon completed.
+
+pragati@pv:~$ pv arsenal
 
 Enumerating installed modules...
 
@@ -80,47 +95,40 @@ Platforms
 
 Scan complete.
 
-21 modules available.
+20 modules available.
 
-pragati@github:~$ pv --projects
+pragati@pv:~$ pv projects
 
 Searching local repositories...
 
 Found 4 repositories.
 
 [01] WebStrike
-     Repository : https://github.com/YOUR_GITHUB_USERNAME/WebStrike
+     https://github.com/pragativarshney16/WebStrike
 
 [02] DeepShield
-     Repository : https://github.com/YOUR_GITHUB_USERNAME/DeepShield
+     https://github.com/pragativarshney16/DeepShield
 
 [03] ATT&CK Navigator
-     Repository : https://github.com/YOUR_GITHUB_USERNAME/ATTACK-Navigator
+     https://github.com/pragativarshney16/ATTACK-Navigator
 
 [04] TeerthFlow
-     Repository : https://github.com/YOUR_GITHUB_USERNAME/TeerthFlow
+     https://github.com/pragativarshney16/TeerthFlow
 
 Repository enumeration complete.
 
-pragati@github:~$ pv --profiles
+pragati@pv:~$ pv profiles
 
 Loading external profiles...
 
-TryHackMe
-https://tryhackme.com/p/SecureSleuth75/
-
-LeetCode
-https://leetcode.com/u/pragati_varshney/
-
-Codeforces
-https://codeforces.com/profile/ZigZagCoder/
-
-LinkedIn
-https://www.linkedin.com/in/pragati-varshney-b4800a324/
+TryHackMe   https://tryhackme.com/p/SecureSleuth75/
+LeetCode    https://leetcode.com/u/pragati_varshney/
+Codeforces  https://codeforces.com/profile/ZigZagCoder/
+LinkedIn    https://www.linkedin.com/in/pragati-varshney-b4800a324/
 
 External profiles loaded successfully.
 
-pragati@github:~$ pv --stats
+pragati@pv:~$ pv stats
 
 Collecting GitHub telemetry...
 
@@ -138,11 +146,11 @@ Collecting GitHub telemetry...
 
 Telemetry synchronized successfully.
 
-pragati@github:~$ logout
+pragati@pv:~$ logout
 
 Saving session... done.
 
-Logout successful.
+Session terminated.
 
 Connection closed.
 ```
