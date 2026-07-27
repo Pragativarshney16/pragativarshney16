@@ -97,26 +97,6 @@ Scan complete.
 
 20 modules available.
 
-pragati@pv:~$ pv projects
-
-Searching local repositories...
-
-Found 4 repositories.
-
-[01] WebStrike
-     https://github.com/pragativarshney16/WebStrike
-
-[02] DeepShield
-     https://github.com/pragativarshney16/DeepShield
-
-[03] ATT&CK Navigator
-     https://github.com/Garimamittal12/ATT-CKNavigator
-
-[04] TeerthFlow
-     https://github.com/Garimamittal12/TeerthFlow
-
-Repository enumeration complete.
-
 pragati@pv:~$ pv profiles
 
 Loading external profiles...
@@ -127,24 +107,6 @@ Codeforces  https://codeforces.com/profile/ZigZagCoder/
 LinkedIn    https://www.linkedin.com/in/pragati-varshney-b4800a324/
 
 External profiles loaded successfully.
-
-pragati@pv:~$ pv stats
-
-Collecting GitHub telemetry...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<p align="center">
-  <img
-    width="60%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pragativarshney16&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
-
-```console
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Telemetry synchronized successfully.
 
 pragati@pv:~$ logout
 
